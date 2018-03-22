@@ -36,6 +36,7 @@
 
 - [快应用QuickApp--入门指北](https://zhuanlan.zhihu.com/p/34774751)
 - [快应用快速入门教程](https://juejin.im/post/5ab27d8e518825557e78485e?utm_source=gold_browser_extension)
+- [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
 
 ## 视频教程
 
