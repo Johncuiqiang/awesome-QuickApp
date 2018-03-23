@@ -3,11 +3,11 @@
 ## 目录
 
 - [官方](#官方)
-- [工具](#工具)
+- [组件](#组件)
 - [插件](#插件)
 - [讨论](#讨论)
 - [教程](#教程)
-- [视频教程](#视频教程)
+- [工具](#工具)
 - [文章](#文章)
 - [代码](#代码)
 - [轮子](#轮子)
@@ -18,13 +18,13 @@
 - [快应用官方文档](https://www.quickapp.cn/docCenter/post/71)
 - [快应用开发者论坛](http://bbs.quickapp.cn/)
 
-## 工具
+## 组件
 
-待更新...
+- [UI for Quick App 快应用快速开发组件库](https://github.com/wuxinzhe/Quix)
 
 ## 插件
 
-待更新...
+- [QuickApp-For-Highlighter 一款基于vscode的语法高亮插件](https://github.com/hatedMe/QuickApp-For-Highlighter)
 
 ## 讨论
 
@@ -39,18 +39,35 @@
 - [快应用QuickApp--HelloWorld体验](https://www.cnblogs.com/simleSmith/p/8618256.html)
 - [对标小程序 ? "快应用"开发入门指南](https://juejin.im/post/5ab26a1e6fb9a028b547c675)
 
-## 视频教程
+- [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
 
-待更新...
+## 工具
+
+- [快应用开发工具(IDE) - HBuilderX
+](http://quickapp.dcloud.io/)
+
+- [快应用转换工具 - 小程序转快应用](http://quickapp.dcloud.io/#wxconvert)
 
 ## 文章
 
 - [饿了么快应用初体验](https://juejin.im/post/5ab119ef51882555712c3372)
 
+- [是前端还是Android？快应用 快速入门与初步分析](https://segmentfault.com/a/1190000013915359)
+
+- [快应用初体验](https://juejin.im/post/5ab378235188255574599cc4)
+
 ## 代码
 
-待更新...
+- [快应用demo](https://github.com/hongyangAndroid/quickappDemo)
 
-## 轮子
+- [快应用版本的Gank客户端](https://github.com/ColorfulCat/quickapp_gank)
 
-待更新...
+- [基于快应用开发的内涵车站APP](https://github.com/Licoy/quickapp-neihanchezhan)
+
+- [wanandroid快应用](https://github.com/CB-ysx/wanandroid-quickapp)
+
+- [quickapp-douban](https://github.com/hjl19911127/quickapp-douban)
+
+- [快应用尝鲜Demo](https://github.com/yangxiaoge/quickappDemo)
+
+- [基于weui开发的快应用组件](https://github.com/xiaomak/quickapp-weui)
