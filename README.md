@@ -41,6 +41,12 @@
 
 - [快应用简明使用指引](https://github.com/williamfzc/QuickAppLearner)
 
+- [快应用quickapp快速入门教程 by五个半柠檬](https://segmentfault.com/a/1190000014012762?utm_source=tag-newest)
+
+- [快应用实现自定义组件](https://mp.weixin.qq.com/s/CstRBA0I5mtFppU4PIPF4g)
+
+- [入门快应用的另一种姿势](https://juejin.im/post/5abb91bc5188255c93235780)
+
 ## 工具
 
 - [快应用开发工具(IDE) - HBuilderX
